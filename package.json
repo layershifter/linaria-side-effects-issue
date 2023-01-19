@@ -5,11 +5,17 @@
   "license": "MIT",
   "dependencies": {
     "@babel/core": "^7.20.12",
+    "@fluentui/react": "^8.104.6",
+    "@fluentui/react-components": "^9.11.0",
+    "@fluentui/react-northstar": "^0.66.0",
     "@linaria/babel-preset": "^4.3.3",
     "@linaria/core": "^4.2.5",
     "@linaria/react": "^4.3.3",
     "@storybook/react": "^6.5.15",
-    "prettier": "^2.8.3"
+    "esbuild": "^0.17.3",
+    "prettier": "^2.8.3",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
   },
   "packageManager": "yarn@3.3.1"
 }
